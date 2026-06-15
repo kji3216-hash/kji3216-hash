@@ -1,4 +1,4 @@
-# 안녕하세요, 김도현입니다 👋
+# 안녕하세요, 김도현입니다
 
 **서울대학교 심리학과** 학부 3학년 (2022-13170) | **뇌-마음-행동 연계전공** 신청 중
 
@@ -31,10 +31,8 @@
 
 ## 💻 기술 스택
 
-**Languages**: Python, JavaScript, R (기초)  
-**Web/Data**: Streamlit, Plotly, Pandas, NumPy, Electron, PWA  
-**Neuroimaging**: fMRI 데이터 분석 (학습 중)  
-**Tools**: Git, GitHub, Zotero
+**Languages**: R (기초)    
+**Tools**: Agentic AI, github, R studio
 
 ---
 

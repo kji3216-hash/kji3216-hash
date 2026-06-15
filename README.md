@@ -25,7 +25,7 @@
 |----------|------|-----------|------|
 | **[🧠 조현병 예측오차-신경회로 모델링](https://github.com/kji3216-hash/bmb-schizophrenia-circuit)** | Python, Streamlit, Plotly | 14개 논문 기반 다차원 원인 시뮬레이터 + 3D 뇌 회로 가시화 + 비선형 상전이 모델 | 2026.03 |
 | **[🌱 MoodGarden](https://github.com/kji3216-hash/moodgarden)** | HTML/CSS/JS, PWA, Electron | EMA 기반 우울 증상 자기 추적 앱 — 정원 게이미피케이션 + 상관분석 Insights | 2026.05 – 현재 |
-| **[📊 MDD 삼각구조 대시보드](https://github.com/kji3216-hash/mdd-moodgarden-ema-dashboard)** | Python, Streamlit, Pandas | MoodGarden EMA 데이터를 MDD 유전-뇌-행동 삼각구조와 연동 분석 | 2026.06 |
+| **[📊 MDD 삼각구조 대시보드](https://github.com/kji3216-hash/mdd-moodgarden-ema-dashboard)** | Python, Streamlit, Pandas | MoodGarden EMA 데이터를 MDD 유전-뇌-행동 삼각구조와 연동 분석 | 2026.05 - 현재 |
 
 ---
 
@@ -49,5 +49,3 @@
 - 🌐 **GitHub**: [github.com/kji3216-hash](https://github.com/kji3216-hash)
 
 ---
-
-*"완벽한 예측이 아니라, 불확실성을 줄이는 방향으로."*
